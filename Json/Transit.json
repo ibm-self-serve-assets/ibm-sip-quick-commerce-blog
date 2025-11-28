@@ -1,0 +1,6 @@
+{
+"type":"string"
+zone,transit_duration
+ZONE_US_001,PT10M
+ZONE_GB_001,PT10M
+}

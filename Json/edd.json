@@ -1,0 +1,32 @@
+{
+    "shippingGroupId": "SAME_DAY",
+    "deliveryMethod": "SHP",
+    "maxFutureAvailabilityLookahead": "P21D",
+    //"preferredCarrierServices": [
+    //  "TCI-EXPRESS"
+    //],
+    // "requestedDateConstraints": {
+    //  "byTs": "2025-08-21T00:00:00.000Z",
+    //  "startTs": "2025-08-15T00:00:00.000Z"
+    // },
+    "considerTransfers": true,
+    "destination": {
+        "format": "ADDRESS",
+        "value": {
+            "countryCode": "IN",
+            "postalCode": "600100",
+            "timezone": "Asia/Kolkata"
+        }
+    },
+    "capacityUomToConsider": "UNITS",
+    "itemInfo": {
+        "itemId": "GDA035_350101",
+        "unitOfMeasure": "EACH",
+        "productClass": "NEW"
+    },
+    "capacityCategoriesToConsider": {
+        "categoryIds": [
+            "STANDARD_CAPACITY"
+        ]
+    }
+}
