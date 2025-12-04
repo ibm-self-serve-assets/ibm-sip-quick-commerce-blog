@@ -82,9 +82,7 @@ Here, Promising Rule has been configured within IBM Sterling Intelligent Promisi
 
 <img src="Images/Image41.jpg">
 
-After the creation of node in APP Manager, the node will show as below in the OMS.
-
-<img src="Images/Image12.jpg">
+After the creation of node in APP Manager, the node will show up under **Nodes and capacity > Nodes**
 
 ### 3.1.2. Create Nodes in SIP
 
